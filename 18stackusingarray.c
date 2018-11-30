@@ -1,3 +1,8 @@
+/*
+MOHAMED SHAHIL K
+S3 D 34
+stack using array
+*/
 #include<stdio.h>
 #include<stdlib.h>
 
