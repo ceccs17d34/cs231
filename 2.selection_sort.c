@@ -1,3 +1,9 @@
+/*
+MOHAMED SHAHIL K
+S3 D 34
+SELECTION SORT
+*/
+
 #include <stdio.h>
 
 int selectionSort(int array[], int size) {
