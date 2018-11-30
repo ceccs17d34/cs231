@@ -1,3 +1,8 @@
+/*
+MOHAMED SHAHIL K
+S3 D 34
+heap sort
+*/
 #include<stdio.h>
 void main()
 {
