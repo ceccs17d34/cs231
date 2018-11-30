@@ -1,3 +1,8 @@
+/*
+MOHAMED SHAHIL K
+S3 D 34
+SEQUENTIAL SEARCH
+*/
 #include <stdio.h>
  
 int main()
